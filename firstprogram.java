@@ -12,5 +12,7 @@ public class firstprogram {
 
         System.out.println("The length of array is " + arr.length);
 
+        // New comment
+
     }
 }
